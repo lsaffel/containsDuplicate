@@ -1,6 +1,8 @@
 From Leetcode:  
 https://leetcode.com/problems/contains-duplicate/description/  
 
+Solved two ways, using a dictionary, using a set
+
 Contains Duplicate  
 Solved  
 Easy  
